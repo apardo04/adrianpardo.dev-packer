@@ -1,0 +1,1 @@
+packer build -var "access_key=KEY_PLACEHOLDER" -var "secret_key=KEY_PLACEHOLDER" adrianpardo-dev.pkr.hcl
